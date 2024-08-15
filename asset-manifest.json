@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/TaskManager/static/css/main.0f258305.css",
+    "main.js": "/TaskManager/static/js/main.96e2ad02.js",
+    "static/js/453.1dc6cd3a.chunk.js": "/TaskManager/static/js/453.1dc6cd3a.chunk.js",
+    "static/media/Poppins-Bold.ttf": "/TaskManager/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/logo_task.png": "/TaskManager/static/media/logo_task.f5c1e745f1d1d58f2655.png",
+    "index.html": "/TaskManager/index.html",
+    "main.0f258305.css.map": "/TaskManager/static/css/main.0f258305.css.map",
+    "main.96e2ad02.js.map": "/TaskManager/static/js/main.96e2ad02.js.map",
+    "453.1dc6cd3a.chunk.js.map": "/TaskManager/static/js/453.1dc6cd3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f258305.css",
+    "static/js/main.96e2ad02.js"
+  ]
+}
